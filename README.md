@@ -30,6 +30,8 @@ Get your OpenAI API Key [here](https://platform.openai.com/account/api-keys) and
 
 ```bash
 pip install "codeinterpreterapi[all]"
+pip install specklepy==2.15.0
+pip install "websockets>=11,<12"
 ```
 
 Everything for local experiments are installed with the `all` extra.
